@@ -1,7 +1,7 @@
 # Xamarin.Forms for macOS Succinctly
-This is the companion repo for [*Xamarin.Forms for macOS Succinctly*](https://www.syncfusion.com/ebooks) by Alessandro Del Sole. Published by Syncfusion.
+This is the companion repo for [*Xamarin.Forms for macOS Succinctly*](https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly) by Alessandro Del Sole. Published by Syncfusion.
 
-[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Xamarin.Forms-for-macOS-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/ebooks)
+[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Xamarin.Forms-for-macOS-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly)
 
 ## Looking for more _Succinctly_ titles?
 
